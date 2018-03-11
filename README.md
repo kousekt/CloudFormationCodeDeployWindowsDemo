@@ -15,4 +15,4 @@ AWS Powershell toolkit
 https://aws.amazon.com/powershell/
 
 The original project (.NETCore 1 RC2)  that this was based off
-https://github.com/awslabs/aws-blog-n...
+https://github.com/awslabs/aws-blog-net-exploring-aspnet-core.git
