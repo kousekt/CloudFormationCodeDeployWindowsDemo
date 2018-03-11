@@ -1,0 +1,9 @@
+What you need to change since bucket names are global
+
+Line 42 in EnvironmentSetup to be your bucket name
+   this bucket name must be the same as the bucket in the cloudformationyaml.template
+
+Line 78 and Line 122 in cloudformationyaml.template
+ change to be your bucket
+  - "-BucketName demoinstallbucket "
+
