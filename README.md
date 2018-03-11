@@ -16,3 +16,6 @@ https://aws.amazon.com/powershell/
 
 The original project (.NETCore 1 RC2)  that this was based off
 https://github.com/awslabs/aws-blog-net-exploring-aspnet-core.git
+
+The .net core runtime and windows hosting downloads can be found here:
+https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.5-download.md
