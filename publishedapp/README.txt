@@ -4,4 +4,5 @@ DeployToPipeline.ps1  (copy from parent directory into here)
 InstallApp.ps1        (copy from parent directory into here)
 RemoveApp.ps1         (copy from parent directory into here)
 ValidateInstall.ps    (copy from parent directory into here)
+appspec.yml           (copy from parent directory into here)
 
